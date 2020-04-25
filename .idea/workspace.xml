@@ -57,8 +57,8 @@
       <file leaf-file-name="main_SpaceShooter.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main_SpaceShooter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6808176">
-              <caret line="278" column="8" selection-start-line="278" selection-start-column="8" selection-end-line="278" selection-end-column="8" />
+            <state vertical-scroll-proportion="0.8176101">
+              <caret line="281" column="0" selection-start-line="281" selection-start-column="0" selection-end-line="281" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -382,7 +382,13 @@
       <option name="project" value="LOCAL" />
       <updated>1587804962054</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2504">
+      <created>1587805184587</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587805184587</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -513,8 +519,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main_SpaceShooter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6808176">
-          <caret line="278" column="8" selection-start-line="278" selection-start-column="8" selection-end-line="278" selection-end-column="8" />
+        <state vertical-scroll-proportion="0.8176101">
+          <caret line="281" column="0" selection-start-line="281" selection-start-column="0" selection-end-line="281" selection-end-column="0" />
           <folding />
         </state>
       </provider>
