@@ -3,7 +3,7 @@ __author__ = 'Jie'
 """
 GUI display for the game of sudoku
 
-# a simple modification
+# a simple Sudoku game for fun
 """
 import pygame
 from SudokuSolver import Solution
