@@ -176,13 +176,13 @@ def main():
     clock=pygame.time.Clock()
 
     def redraw_window():
-        # refresh windwo every time with an operation
+        # refresh window every time with an operation
         WIN.blit(BG,(0,0)) #  creat the new background
         # draw text
         lives_label=main_font.render("Lives: {}".format(lives),1,(255,255,255))
         level_label=main_font.render("Level: {}".format(level),1,(255,255,255))
 
-        WIN.blit(lives_label,(10,10))
+        WIN.blit(lives_label,(10,10))  # put the text into windows with a specific coordinate
         WIN.blit(level_label,(WIDTH-level_label.get_width()-10,10))
 
         for enemy in enemies:
@@ -195,7 +195,7 @@ def main():
             lost_label=lost_font.render("You Lost !",1,(255,255,255))
             WIN.blit(lost_label,(WIDTH/2-lost_label.get_width()/2,350))
 
-        pygame.display.update()
+        pygame.display.update()  # update the display.
 
     while run:
         clock.tick(FPS) #  compatiable for different computers.
